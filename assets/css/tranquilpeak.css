@@ -1328,8 +1328,9 @@ blockquote {
       position: absolute;
       top: 10px;
       left: 15px;
-      font-family: 'FontAwesome';
-      font-size: 2.5rem; }
+      font-family: 'Font Awesome 5 Free';
+      font-weight: 600;
+      font-size: 2rem; }
   .alert.info {
     border-color: #349ef3;
     background-color: #e6f3fe; }
@@ -1374,7 +1375,8 @@ blockquote {
   .archive .archive-posts .archive-post .archive-post-date {
     color: #9eabb3; }
   .archive .archive-posts .archive-post::before {
-    font-family: 'FontAwesome';
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 600;
     content: '\f0da';
     font-size: 1.3rem; }
 
@@ -2296,7 +2298,8 @@ a.fancybox {
       display: block;
       width: 100%;
       padding: 10px 0 10px 0; }
-      .share-options-bar .share-options .share-option .share-option-btn .fa {
+      .share-options-bar .share-options .share-option .share-option-btn .fa,
+      .share-options-bar .share-options .share-option .share-option-btn .fab {
         margin-right: 15px; }
 
 #btn-close-shareoptions {

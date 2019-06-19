@@ -35,11 +35,11 @@ sidebar:
     home:
       title: global.home
       url: /
-      icon: fa-home
+      icon: fa fa-home
     projects:
       title: global.projects
       url: /projects
-      icon: project-diagram
+      icon: fa fa-project-diagram
     categories:
       title: global.categories
       url: /all-categories

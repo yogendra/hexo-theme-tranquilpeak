@@ -36,6 +36,10 @@ sidebar:
       title: global.home
       url: /
       icon: home
+    projects:
+      title: global.projects
+      url: /projects
+      icon: project-diagram
     categories:
       title: global.categories
       url: /all-categories

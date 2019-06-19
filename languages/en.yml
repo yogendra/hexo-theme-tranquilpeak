@@ -25,6 +25,7 @@ global:
     linkedin: "LinkedIn"
     mail: "Mail"
     rss: "RSS"
+    projects: "Projects"
     share_on_facebook: "Share on Facebook"
     share_on_twitter: "Share on Twitter"
     share_on_google_plus: "Share on Google+"

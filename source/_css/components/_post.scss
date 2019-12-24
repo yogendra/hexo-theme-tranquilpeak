@@ -41,6 +41,18 @@
             display:   block;
             width:     auto;
             max-width: 100%;
+            &[alt~="type-banner"] {
+              margin-left: auto;
+              margin-right: auto;
+            }
+            &[alt~="type-icon-right"] {
+              @extend .figure;
+              @extend .right;
+            }
+            &[alt~="type-icon"],&[alt~="type-icon-left"] {
+              @extend .figure;
+              @extend .left;
+            }
         }
         :not(blockquote):not(li):not(.alert) {
             & > p {

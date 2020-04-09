@@ -73,13 +73,13 @@ sidebar:
       title: global.facebook
       url: https://facebook.com/yogendrarampuria
       icon: fab fa-facebook
-    google_plus:
-      title: global.google_plus
-      url: https://plus.google.com/+YogendraRampuria
-      icon: fab fa-google-plus
+    # google_plus:
+    #   title: global.google_plus
+    #   url: https://plus.google.com/+YogendraRampuria
+    #   icon: fab fa-google-plus
     linked_in:
       title: global.linkedin
-      url: https://www.linkedin.com/in/yogendrarampuria/
+      url: https://www.linkedin.com/in/yogi
       icon: fab fa-linkedin
     mail:
       title: global.mail
@@ -126,10 +126,10 @@ author:
   twitter: yogendra
   # Your personal google plus profile id, not your blog or business page id.
   # E.g : `+JohnDoe` or `123812884128439`
-  google_plus: +YogendraRampuria
+  # google_plus: +YogendraRampuria
   # Your businnes google plus profile id. If not provided, personal will be used instead.
   # E.g : `+Tranquilpeak` or `123812884128439`
-  google_plus_business:
+  # google_plus_business:
 
 # -------------
 # Customization
@@ -257,9 +257,9 @@ sharing_options:
   twitter:
     icon: "fab fa-twitter"
     url: "https://twitter.com/intent/tweet?text={{post.permalink}}"
-  google_plus:
-    icon: "fab fa-google-plus"
-    url: "https://plus.google.com/share?url={{post.permalink}}"
+  # google_plus:
+  #   icon: "fab fa-google-plus"
+  #   url: "https://plus.google.com/share?url={{post.permalink}}"
   linkedin:
     icon: "fab fa-linkedin"
     url: "https://www.linkedin.com/shareArticle?url={{post.permalink}}"

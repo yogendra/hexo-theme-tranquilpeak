@@ -56,6 +56,11 @@ sidebar:
       title: global.about
       url: /#about
       icon: fa fa-question
+    security:
+      title: global.security
+      url: /security.html
+      icon: fa fa-shield-alt
+
   author_links:
     github:
       title: global.github
@@ -73,10 +78,6 @@ sidebar:
       title: global.facebook
       url: https://facebook.com/yogendrarampuria
       icon: fab fa-facebook
-    # google_plus:
-    #   title: global.google_plus
-    #   url: https://plus.google.com/+YogendraRampuria
-    #   icon: fab fa-google-plus
     linked_in:
       title: global.linkedin
       url: https://www.linkedin.com/in/yogi

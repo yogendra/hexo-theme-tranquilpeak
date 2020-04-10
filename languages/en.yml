@@ -85,14 +85,11 @@ author:
     # Your biography (Markdown and HTML supported)
     bio: "Software Engineer
 
-OpenSource Advocate,
+OSS Advocate, User, Buyer and Seller.
 
+GPG: 019ECB5CDC6D59B7
     "
     # Your job
     job: "Senior Platform Architect
 
     VMware / Pivotal"
-
-    gpg:
-      short: "019E CB5C DC6D 59B7"
-      full: "D14A C2E3 44A8 8F9F 2854 21F3 019E CB5C DC6D 59B7"

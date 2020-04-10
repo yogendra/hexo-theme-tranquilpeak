@@ -55,6 +55,7 @@ global:
     go_to_homepage: "Go to homepage"
     open_link: "Open the link"
     open_post: "Open the post"
+    security: "Security"
 
 pagination:
     page: "page %d"
@@ -84,11 +85,14 @@ author:
     # Your biography (Markdown and HTML supported)
     bio: "Software Engineer
 
-OpenSource Advocate
+OpenSource Advocate,
 
-Employed in Financial Industry since 2004
     "
     # Your job
-    job: "Solution Architect & Senior Developer
+    job: "Senior Platform Architect
 
-    Retail Banking "
+    VMware / Pivotal"
+
+    gpg:
+      short: "019E CB5C DC6D 59B7"
+      full: "D14A C2E3 44A8 8F9F 2854 21F3 019E CB5C DC6D 59B7"
